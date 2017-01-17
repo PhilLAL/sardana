@@ -13,6 +13,7 @@ automatically download and install the latest release of Sardana (see
 easy_install --help for options)::
 
        easy_install -U sardana
+       easy_install -U sardana
 
 You can test the installation by running::
 
